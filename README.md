@@ -172,6 +172,7 @@ If all constraints are to your liking, move on to the 'Schedule' tab and select 
 After a few short moments, one of two things should happen:
 
 In the case where a successful roster and schedule was created, it should list each combo, its roster, as well as a display of combos' rehearsal times.
+
 <img width="485" height="309.5" alt="image" src="https://github.com/user-attachments/assets/1b2d0fd2-0c46-4e9c-b9fc-a3b71a63b4b4" />
 <img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/6657ce9e-375c-4cb7-bda2-37d69a9f0b31" />
 
