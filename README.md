@@ -1,3 +1,6 @@
+NOTE: For full README with images, see the pdf file attached or view it on google drive:
+https://drive.google.com/file/d/1xNfi3euccrfgi2QrgIzhJhTxmc3s2fIx/
+
 # Jazz-Ensemble-Scheduler
 
 This project provides a tool that allows a usere to build ensemble rosters and schedules for small jazz ensembles (combos) in a university setting.
